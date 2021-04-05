@@ -1,7 +1,7 @@
 ## Budget Tracker [![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-Whether you're connected to the internet, or you're nowhere near a wifi hotspot, this app will help you keep track of your spendings.
+Whether you're connected to the internet, or you're nowhere near a wifi hotspot, this app will help you keep track of your spending habits.
 
 Deployed App: https://hidden-garden-06120.herokuapp.com/
 
