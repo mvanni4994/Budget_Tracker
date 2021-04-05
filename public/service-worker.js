@@ -1,4 +1,4 @@
-const cacheFiles= ["./", "./index.html", "./index.js", "./styles.css", "./icons/icon-192x192.png","./icons/icon-512x512.png"];
+const cacheFiles= ["/", "/index.html", "/index.js", "/styles.css", "/icons/icon-192x192.png","/icons/icon-512x512.png"];
 const cacheName = "Static Cache"
 const dataCache = "Data Cache"
 
