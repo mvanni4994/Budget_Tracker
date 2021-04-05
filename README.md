@@ -9,7 +9,7 @@ Github Repository: https://github.com/mvanni4994
 
 ## Instructions
 In the top two entry fields, enter the name of the transaction, followed by the transaction amount.
-If you spend money, click "subtract funds", if you made money, click "add funds".
+If you spend money, click "subtract funds", if you make money, click "add funds".
 The transaction and the amount spent or gained will appear below.
 
 ## App Features
