@@ -3,22 +3,22 @@
 ## Description
 Whether you're connected to the internet, or you're nowhere near a wifi hotspot, this app will help you keep track of your spendings.
 
+Deployed App: https://hidden-garden-06120.herokuapp.com/
+
+Github Repository: https://github.com/mvanni4994
+
 ## Instructions
 In the top two entry fields, enter the name of the transaction, followed by the transaction amount.
 If you spend money, click "subtract funds", if you made money, click "add funds".
 The transaction and the amount spent or gained will appear below.
-
-## Technology Used
-Node.js, JavaScript, Express, MongoDB, Heroku, Atlas, PWA, IndexedDB
 
 ## App Features
 
 ![image](assets/btstarter.JPG)
 ![image](assets/btInActionChart.JPG)
 
-
-## URL to Deployed App
-https://hidden-garden-06120.herokuapp.com/
+## Technology Used
+Node.js, JavaScript, Express, MongoDB, Heroku, Atlas, PWA, IndexedDB
 
 ## License
 
